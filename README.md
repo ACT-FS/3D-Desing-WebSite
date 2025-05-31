@@ -40,7 +40,7 @@ No requiere servidores externos ni configuración adicional.
 
 ## 📸 Vista Previa
 Una interfaz web llamativa con partículas dinámicas y elementos geométricos flotantes, ideal para portafolios o presentaciones de proyectos tecnológicos.
-
+![](https://github.com/ACT-FS/3D-Desing-WebSite/blob/main/img/3D-Page.png?raw=true)
 ## 👨‍💻 Autor
 Alejandro Carpintero
 © 2025 - Transformando el futuro del desarrollo web.
